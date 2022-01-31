@@ -148,12 +148,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
-<!-- CONTACT -->
-## Contact
-
-LinkedIn - [Ashraful Islam](https://linkedin.com/in/ashraful-islam-78aa7a1a0) - Send me a connection request and let's get to know each other.
-
-My Other Projects: [Projects](https://github.com/AR-Ashraf?tab=repositories)
 
 
 
