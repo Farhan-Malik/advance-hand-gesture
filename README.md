@@ -22,7 +22,7 @@
     <a href="https://github.com/AR-Ashraf/awesome-hand-gesture-detection/issues">Request Feature</a>
   </p>
 
-![hand gesture 1](https://user-images.githubusercontent.com/65129467/122554376-b8bd9b80-d05a-11eb-9f25-0f931afb8c1c.jpg)
+![hand gesture 1](file:///C:/Users/DELL/Downloads/Screenshot_2022-01-31-21-06-56-70_99c04817c0de5652397fc8b56c3b3817.jpg)
   
 
 
