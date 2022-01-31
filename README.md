@@ -157,12 +157,7 @@ My Other Projects: [Projects](https://github.com/AR-Ashraf?tab=repositories)
 
 
 
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [YouTube Link that helped me](https://www.youtube.com/watch?v=ZiwZaAVbXQo&t=2604s)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
+
 
 
 
